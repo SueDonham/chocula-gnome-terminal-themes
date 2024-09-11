@@ -1,0 +1,12 @@
+
+
+[legacy/profiles:/:Chocula-Pastel_UUID]
+background-color='#2b2825'
+bold-color='#dac4ba'
+bold-color-same-as-fg=false
+bold-is-bright=true
+foreground-color='#f8f8f2'
+palette=['#292624', '#c87980', '#9ab78f', '#e2c46a', '#806e91', '#d788a3', '#93c5c8', '#d2a779', '#837a71', '#e3a6a6', '#c1e3b5', '#fef3b5', '#beafc5', '#e3b5cc', '#baddde', '#f2cda6']
+use-theme-colors=false
+visible-name='Chocula-Pastel'
+

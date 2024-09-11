@@ -1,0 +1,12 @@
+
+
+[legacy/profiles:/:Chocula_UUID]
+background-color='#2b2825'
+bold-color='#6e46a4'
+bold-color-same-as-fg=false
+bold-is-bright=true
+foreground-color='#f8f8f2'
+palette=['#292624', '#e64747', '#42e66c', '#e4f34a', '#9b6bdf', '#e356a7', '#75d7ec', '#efa554', '#837a71', '#ff5555', '#50fa7b', '#f1fa8c', '#bd93f9', '#ff79c6', '#8be9fd', '#ffb86c']
+use-theme-colors=false
+visible-name='Chocula'
+
